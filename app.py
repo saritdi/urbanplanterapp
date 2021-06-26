@@ -26,7 +26,7 @@ class_dict = {'Begonia Maculata':0, 'Coleus':1, 'Elephant Ear':2, 'House Leek':3
 class_names = list(class_dict.keys())
 
 # Model saved with Keras model.save()
-MODEL_PATH_1 = './models/DenseNet201.h5'
+MODEL_PATH_1 = './models/UrbanPlanterModel.h5'
 
 # Load my own trained model
 model_1 = load_model(MODEL_PATH_1)
