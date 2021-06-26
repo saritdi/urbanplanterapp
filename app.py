@@ -49,7 +49,6 @@ def index():
 
 @app.route('/predict', methods=['GET', 'POST'])
 def predict():
-    myDes = []
     if request.method == 'POST':
         # Get the image from post request
         img = base64_to_pil(request.json)
