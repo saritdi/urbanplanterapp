@@ -11,10 +11,8 @@
 # 1. First, clone the repo
 $ https://github.com/saritdi/urbanplanterapp.git
 $ cd urbanplanterapp
-
 # 2. Install Python packages
 $ pip install -r requirements.txt
-
 # 3. Run!
 $ python app.py
 ```
