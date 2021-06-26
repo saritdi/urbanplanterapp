@@ -1,5 +1,5 @@
 # UrbanPlanterApp
-## Getting Started in 10 Minutes
+## Getting Started
 - Clone this repo 
 - Install requirements
 - Download Urban Planter Classifier model at https://drive.google.com/drive/folders/1SZC8W0-pU_TN2htw4sQSvltBGugLpEQP?usp=sharing
