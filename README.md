@@ -9,7 +9,7 @@
 ## Local Installation
 ```shell
 # 1. First, clone the repo
-$ https://github.com/saritdi/urbanplanterapp.git
+$ https://github.com/UrbanPlanter/urbanplanterapp.git
 $ cd urbanplanterapp
 
 # 2. Install Python packages
